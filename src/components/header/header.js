@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './header.css';
 
 const Header = _ => (
   <header id="main-header">Sou o Header Component</header>
