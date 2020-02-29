@@ -9,7 +9,7 @@ import './reset.css';
 
 function App() {
   return (
-    <div className="app">
+    <div>
       <Header />
       <Routes />
     </div>
