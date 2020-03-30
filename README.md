@@ -1,10 +1,7 @@
-# React Playground
+# Product Frontend
 
-Esse projeto foi criado para o aprendizado dos conceitos básicos do react.
-É um projeto simples que lista alguns produtos vindos de uma API(https://rocketseat-node.herokuapp.com/api) e exibe seus detalhes.
+Projeto criado para fins didáticos, com objetivo de praticar os aprendizados em React.
 
-Fiz o projeto seguindo o curso gratuíto disponibilizado na plataforma Rocket Seat(https://rocketseat.com.br/starter). 
-
-Foi criado utilizando o `create-react-app`.
+O projeto consiste em listar produtos vindos de um serviço chamado [product-backend](https://github.com/ricasousa/product-backend).
 
 Para o roteamento foi utilizado a lib `react-router-dom` e para o consumo da API foi utilizado a lib `axios`.
